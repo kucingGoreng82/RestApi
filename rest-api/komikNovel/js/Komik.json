@@ -1,0 +1,46 @@
+{
+	"buku": [
+		{
+			"kategori": "novel",
+			"nama": "Wish Your Ending",
+			"deskripsi": "wishing your happy with someone else",
+			"harga": "Rp 25.000,-",
+			"gambar": "komik/komik1.jpg"
+		},
+		{
+			"kategori": "komik",
+			"nama": "Gintama",
+			"deskripsi": "Sakata Gintoki is a samurai living in an era when samurai are no longer needed. To add to his troubles, oppressive aliens have moved in to invade. Gintoki lives with Kagura and Shinpachi, taking on odd jobs to make the world a better place... and to pay their rent.",
+			"harga": "Rp 25.000,-",
+			"gambar": "komik/komik2.jpg"
+		},
+		{
+			"kategori": "komik",
+			"nama": "Kimetsu no Yaiba",
+			"deskripsi": "Tanjiro is the oldest son in his family who has lost his father. One day, Tanjiro ventures off to another town to sell charcoal. Instead of going home, he ends up staying the night at someone else's house due to rumors of a demon nearby in the mountains. When he gets home the following day, a terrible tragedy awaits him.",
+			"harga": "Rp 25.000,-",
+			"gambar": "komik/komik3.jpg"
+		},
+		{
+			"kategori": "komik",
+			"nama": "Spy x Family",
+			"deskripsi": "Master spy Twilight is unparalleled when it comes to going undercover on dangerous missions for the betterment of the world. But when he receives the ultimate assignment—to get married and have a kid—he may finally be in over his head!",
+			"harga": "Rp 25.000,-",
+			"gambar": "komik/komik4.jpg"
+		},
+		{
+			"kategori": "komik",
+			"nama": "ELECEED",
+			"deskripsi": "Kaiden - A mysterious ability user who hides inside the body of a street cat. He is later picked up by Jiwoo after being injured after a fight with another ability user. He has a stubborn and bossy personality. Jiwoo - an energetic and talkative high school boy who loves cats. He is very kind and also seem to have a special ability.",
+			"harga": "Rp 25.000,-",
+			"gambar": "komik/komik5.jpg"
+		},
+		{
+			"kategori": "komik",
+			"nama": "One Piece",
+			"deskripsi": "nakama",
+			"harga": "Rp 25.000,-",
+			"gambar": "komik/komik6.jpg"
+		}
+	]
+}

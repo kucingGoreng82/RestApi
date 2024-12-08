@@ -1,0 +1,22 @@
+[{
+   "nama" : "Kucing Goreng",
+   "Hobi" : [
+    "menggambar",
+    "nyari rusuh"
+   ] ,
+   "lulus" : true,
+   "pembimbing" : {
+    "pembing 1" : "Ratna"
+   }
+},{
+   "nama" : "Kucing Goreng",
+   "Hobi" : [
+    "menggambar",
+    "nyari rusuh"
+   ] ,
+   "lulus" : true,
+   "pembimbing" : {
+    "pembing 1" : "Ratna"
+   } 
+}
+]
